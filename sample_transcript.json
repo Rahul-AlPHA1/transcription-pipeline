@@ -1,0 +1,18 @@
+{
+  "source_file": "work\\sample.wav",
+  "language": "en",
+  "duration_seconds": 7.0,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 3.2,
+      "text": "This is a mock transcript for pipeline testing."
+    },
+    {
+      "start": 3.2,
+      "end": 6.4,
+      "text": "In production this segment would come from a speech-to-text model."
+    }
+  ],
+  "text": "This is a mock transcript for pipeline testing. In production this segment would come from a speech-to-text model."
+}
